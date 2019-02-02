@@ -61,7 +61,7 @@ const columns = [{
       props: {},
     };
     if (index === 2) {
-      obj.props.rowSpan = 2;
+      obj.props.rowSpan = 3;
     }
     // These two are merged into above cell
     if (index === 3) {
